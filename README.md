@@ -1,6 +1,7 @@
 # e6530
 
 E6530 - Hackintosh - OPENCORE Bootloader
+
 NOTE
 + BIOS version A13. IF you have A21 or A22 try downgrade to A13 to fix GlitchScreen when SHUTDOWN.
 If you have other version without glitch screen when shutdown please TELLME!
