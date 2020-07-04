@@ -1,4 +1,4 @@
-# e6530
+# E6530 Opencore Hackintosh
 
 E6530 - Hackintosh - OPENCORE Bootloader
 
@@ -18,13 +18,10 @@ BENCHMARK:
 + Cinebench R20: 575
 
 NOTE:
-XCPM + SSDT : GEEK 550:1350 CINE 580
-
-XCPM only	: GEEK 500:1330 CINE 570 
-
-SSDT only	: GEEK 660:1415 CINE 560
-
-XCPM + SSDT + CFG unlock(mod bios): GEEK 625:1399 CINE 575
++ XCPM + SSDT : GEEK 550:1350 CINE 580
++ XCPM only	: GEEK 500:1330 CINE 570 
++ SSDT only	: GEEK 660:1415 CINE 560
++ XCPM + SSDT + CFG unlock(mod bios): GEEK 625:1399 CINE 575
  
 NOTWORK: 
 + FAN SPEED ( Replace VIRTUALSMC.kext by FAKESMC.kext )
