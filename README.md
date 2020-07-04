@@ -8,9 +8,10 @@ If you have other version without glitch screen when shutdown please TELLME!
 
 + Work only Catalina 10.15.5 if you have other version must be disable _xcpm_bootstrap in Kernel>Patch and AppleXCPMExtraMSR
 + BIOS need mod to full xcpm. If you don't want mod bios and want high score geekbench please disable _xcpm_bootstrap in Kernel>Patch and AppleXCPMExtraMSR (Not recommend)
++ If no sound when statup try lid the screen down and reopen ( if you use clover will not get this error)
   
 SPEC:
-  Dell Latitude E6530 I5 3230M + HD4000 + 120GB Vaseky V800 SSD + 8GB Ram + BCM43224HMS WIFI Card + unlock CFG for full XCPM
+  Dell Latitude E6530 I5 3230M + HD4000 (1366x768) + 120GB Vaseky V800 SSD + 8GB Ram + BCM43224HMS WIFI Card + unlock CFG for full XCPM
   
 BENCHMARK:
 + Geekbench 5.1 Single-Core: 625 Multi-Core 1399 https://browser.geekbench.com/v5/cpu/2799807
